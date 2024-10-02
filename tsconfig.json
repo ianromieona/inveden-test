@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": ["es6", "dom"],
+        "module": "CommonJS",
+        "sourceMap": true
+    },
+    "include": ["task_1.ts"],
+    "exclude": ["node_modules"]
+}
